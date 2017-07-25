@@ -1,5 +1,7 @@
-.body{
-  background-color: fffff;
+body{
+  display: block;
+  margin: 8px;
+  background-color: black;
 }
 
 h1 {
