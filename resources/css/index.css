@@ -16,9 +16,9 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana, sans-serif;
+  text-align: center;
+  font-weight: 600;
   font-size: 42px;
-  font-weight: bold;
   color: white;
 }
 
