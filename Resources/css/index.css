@@ -1,6 +1,5 @@
-.body{
-  backround-color: #fffff;
-}
+
+backround-color: #fffff;
 
 h1 {
   font-family: Verdana, sans-serif;
@@ -8,5 +7,4 @@ h1 {
   font-weight: 600;
   font-size: 50px;
   color: white;
-
 }
