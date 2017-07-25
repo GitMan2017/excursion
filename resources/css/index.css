@@ -1,5 +1,6 @@
 * {
   font-family: Verdana, sans-serif;
+  text-align: center;
 }
 
 body {
@@ -26,7 +27,6 @@ h2 {
   font-family: Verdana, sans-serif;
   font-size: 16px;
   color: aquamarine;
-  text-align: center;
 }
 
 #copy {
