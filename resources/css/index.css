@@ -1,4 +1,4 @@
-*{
+* {
   font-family: Verdana, sans-serif;
 }
 
@@ -24,9 +24,9 @@ h2 {
 
 .cta {
   font-family: Verdana, sans-serif;
-  text-align: center;
   font-size: 16px;
   color: aquamarine;
+  text-align: center;
 }
 
 #copy {
